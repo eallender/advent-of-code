@@ -1,4 +1,5 @@
-# Added by cargo
+# AOC Solution inputs
+**/inputs/
 
-/target
-/inputs
+# Rust
+**/target/
